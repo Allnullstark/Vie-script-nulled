@@ -1,0 +1,7 @@
+echo "# Vie-script-nulled" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Allnullstark/Vie-script-nulled.git
+git push -u origin main
